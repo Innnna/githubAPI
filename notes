@@ -1,0 +1,8 @@
+f06a443980a4dff6f422553835e911829d30c1e3 - token
+
+1) How to access:
+curl -u username:token https://api.github.com/user
+curl -u Innnna:f06a443980a4dff6f422553835e911829d30c1e3 https://api.github.com/user
+
+2) Get the list of commits:
+GET /repos/:owner/:repo/commits
